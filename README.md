@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection 
+# Credit Card Fraud Detection using Machine Learning
 
 This is a machine learning project that detects fraudulent credit card transactions using various algorithms. The dataset used in this project contains a total of 284,807 transactions, out of which 492 are fraudulent. The aim of this project is to develop a model that can accurately predict whether a transaction is fraudulent or not.
 
