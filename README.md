@@ -42,20 +42,3 @@
 6. Evaluate the models: `python evaluate.py`
 
 📝 Feel free to modify the code and experiment with different techniques to improve the fraud detection accuracy.
-
-## License
-
-📄 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-🙏 We would like to acknowledge XYZ Organization for providing the credit card transaction dataset used in this project.
-
-📚 Additional resources and references:
-
-- Article on credit card fraud detection techniques: [link to article]
-- Research paper on fraud detection using machine learning: [link to paper]
-
-📧 For any questions or feedback, please contact [your email address].
-
-🔒 Protect your business and customers from credit card fraud with our advanced fraud detection system!
