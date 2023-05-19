@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection Using Machine Learning
 
 🔍 This project focuses on developing a credit card fraud detection system using machine learning techniques.
 
