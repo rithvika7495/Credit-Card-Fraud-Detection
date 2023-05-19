@@ -42,3 +42,7 @@
 6. Evaluate the models: `python evaluate.py`
 
 📝 Feel free to modify the code and experiment with different techniques to improve the fraud detection accuracy.
+
+## Acknowledgments
+
+The Credit Card Fraud Detection is inspired by various Machine learning tutorials and examples available online. Special thanks to the creators of the Credit Card Fraud Detection dataset for providing a valuable resource for this project.
