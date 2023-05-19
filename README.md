@@ -34,7 +34,7 @@
 
 🚀 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/credit-card-fraud-detection.git`
+1. Clone the repository: `git clone https://github.com/rithvika7495/credit-card-fraud-detection.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the credit card transaction dataset (provide a link or instructions on where to obtain the dataset).
 4. Preprocess the dataset (provide instructions if any preprocessing is required).
